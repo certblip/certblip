@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/certblip">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=2563eb"/>
+    <img src="https://img.shields.io/github/followers/certblip?style=for-the-badge&logo=github&color=2563eb"/>
   </a>
   <img src="https://img.shields.io/badge/Roblox-Senior%20Engineer-000000?style=for-the-badge&logo=roblox"/>
   <img src="https://img.shields.io/badge/Luau-Advanced-00A2FF?style=for-the-badge&logo=lua"/>
