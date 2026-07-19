@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1d4ed8&height=260&section=header&text=Tamer%20%7C%20Senior%20Roblox%20Engineer&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1d4ed8&height=260&section=header&text=Teterboro%20%7C%20Senior%20Roblox%20Engineer&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Architecting+high-performance+Luau+systems;Building+Roblox+infrastructure+at+scale;Engineering+frameworks+%26+developer+tools"/>
