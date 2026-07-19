@@ -1,64 +1,75 @@
-````md
-<p align="center">
-  <img src="https://your-banner-url.com/banner.png" width="100%" alt="Banner">
-</p>
+<div align="center">
 
-<h1 align="center">Your Name</h1>
+<img src="assets/banner.png" width="100%" />
 
-<p align="center">
-  Roblox Software Engineer • Systems Architect • Technical Lead
-</p>
+# certblip
 
-<p align="center">
-  Designing scalable Roblox infrastructure and engineering systems.
-</p>
+**Roblox Systems Engineer**
+
+Architecture • Backend • Networking • Performance
+
+[Portfolio](#) • [Discord](#) • [Email](mailto:...)
+
+</div>
 
 ---
 
 ## About
 
-I specialize in the architecture and implementation of Roblox experiences, with over **7 years** of professional experience developing in **Luau**.
+I architect and build scalable Roblox systems.
 
-My work centers around designing scalable, maintainable systems—from backend architecture and networking to dependency management, tooling, and performance engineering.
+Over the past seven years I've specialized in Luau engineering, designing backend infrastructure, networking layers, dependency management, and development tooling for large Roblox experiences.
 
-I've led technical development on large Roblox projects, bridging engineering, design, and production to build systems that remain reliable as projects grow.
+My focus is creating systems that remain maintainable long after production begins.
 
-## Core Expertise
+## Specializations
 
-```text
+```txt
 Architecture
-Backend Engineering
+Backend Infrastructure
 Networking & Replication
-Framework Design
-Dependency Management
-Performance Optimization
+Framework Development
+Dependency Injection
+Performance Engineering
 Developer Tooling
 Technical Leadership
-````
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=lua,git,github,vscode" />
-</p>
-
-## Philosophy
-
-> Build systems that developers enjoy working with.
-
-I prefer simple architectures over clever ones, modular systems over monoliths, and engineering solutions that prioritize long-term maintainability.
+```
 
 ---
 
+## Selected Projects
+
+| Project | Description |
+|---------|-------------|
+| Framework | Modular dependency injection & package management |
+| Networking | Reliable client/server communication layer |
+| Backend | Service architecture powering large experiences |
+| Tooling | Internal developer workflow automation |
+
+---
+
+## Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=lua,git,github,vscode"/>
+
+</p>
+
+---
+
+## GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=certblip&show_icons=true&hide_border=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certblip&layout=compact&hide_border=true&theme=github_dark"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=github-dark&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=certblip&theme=github-dark&hide_border=true"/>
+
 </p>
-```
