@@ -1,75 +1,42 @@
-<div align="center">
-
-<img src="assets/banner.png" width="100%" />
-
-# certblip
-
-**Roblox Systems Engineer**
-
-Architecture • Backend • Networking • Performance
-
-[Portfolio](#) • [Discord](#) • [Email](mailto:...)
-
-</div>
-
----
-
-## About
-
-I architect and build scalable Roblox systems.
-
-Over the past seven years I've specialized in Luau engineering, designing backend infrastructure, networking layers, dependency management, and development tooling for large Roblox experiences.
-
-My focus is creating systems that remain maintainable long after production begins.
-
-## Specializations
-
-```txt
-Architecture
-Backend Infrastructure
-Networking & Replication
-Framework Development
-Dependency Injection
-Performance Engineering
-Developer Tooling
-Technical Leadership
-```
-
----
-
-## Selected Projects
-
-| Project | Description |
-|---------|-------------|
-| Framework | Modular dependency injection & package management |
-| Networking | Reliable client/server communication layer |
-| Backend | Service architecture powering large experiences |
-| Tooling | Internal developer workflow automation |
-
----
-
-## Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=lua,git,github,vscode"/>
-
-</p>
-
----
-
-## GitHub
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1d4ed8&height=260&section=header&text=Tamer%20%7C%20Senior%20Roblox%20Engineer&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=certblip&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certblip&layout=compact&hide_border=true&theme=github_dark"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Architecting+high-performance+Luau+systems;Building+Roblox+infrastructure+at+scale;Engineering+frameworks+%26+developer+tools"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=certblip&theme=github-dark&hide_border=true"/>
-
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=2563eb"/>
+  </a>
+  <img src="https://img.shields.io/badge/Roblox-Senior%20Engineer-000000?style=for-the-badge&logo=roblox"/>
+  <img src="https://img.shields.io/badge/Luau-Advanced-00A2FF?style=for-the-badge&logo=lua"/>
 </p>
+
+---
+
+# ⚡ About
+
+```yaml
+name: Teterboro
+role: Senior Roblox Engineer
+
+experience:
+  years: 7+
+  specialization:
+    - Luau Architecture
+    - Backend Infrastructure
+    - Framework Engineering
+    - Performance Optimization
+    - Developer Tooling
+
+focus:
+  current:
+    - Scalable Roblox ecosystems
+    - Engine-level abstractions
+    - Deterministic architectures
+    - Production-grade frameworks
+
+mindset:
+  - Simplicity over complexity
+  - Performance without sacrificing maintainability
+  - Systems designed to survive scale
